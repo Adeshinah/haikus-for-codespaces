@@ -1,0 +1,3 @@
+if ( defined( 'PMPRO_DIR' ) ) {
+	require_once( PMPRO_DIR . '/classes/gateways/class.pmprogateway_twocheckout.php' );
+}
